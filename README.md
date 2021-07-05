@@ -1,1 +1,4 @@
 # Mobility-Hackathon
+With the upcoming cab aggregators and demand for mobility solutions, the past decade has seen immense growth in data collected from commercial vehicles with major contributors such as Uber, Lyft and Ola to name a few. 
+The dataset was related to a cab aggregator service whose customers can download the app and book a cab from anywhere in the cities they operate it. The cab aggregator service, in turn search for cabs from various service providers and provide best option to their client across available options. 
+The historical data included features like Trip_Distance, Type of Cab, Life_Style_Index, Customer_Rating, Destination_Type, etc .We had to build a ML model based on historical data to predict the “Surge_Pricing_Type” pro-actively. This will help cab aggregator service in matching the right cabs with the right customers quickly and efficiently.
